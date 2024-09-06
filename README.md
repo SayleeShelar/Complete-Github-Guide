@@ -415,8 +415,6 @@ This section introduces some advanced Git concepts that are useful for larger pr
 
 ## 15. Conclusion
 This guide provides a basic understanding of Git and GitHub. Always practice to get more familiar with the commands and workflows.
-```
----
 ### Key Differences: `git pull` vs `git fetch + merge/rebase`
 1. **`git pull`** does both `fetch` and `merge` in one step, automatically integrating the changes into your current branch.
 2. **`git fetch`** retrieves changes from the remote repository without integrating them. You can review and decide to `merge` or `rebase` afterward, offering more control over how changes are incorporated.
