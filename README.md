@@ -328,8 +328,6 @@ git push origin <branch>
 
 ---
 
-Here are the missing sections (Topic 13 and 14), and a suggested repository name.
-
 ### Topic 13: Advanced Git Concepts
 
 This section introduces some advanced Git concepts that are useful for larger projects and more complex workflows.
